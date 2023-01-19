@@ -3,3 +3,5 @@ ganbaruzoo
 
 tambhaan buat latihan
 tambahan dari kuro
+
+tambahan langsung dari git hub
